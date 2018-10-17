@@ -135,3 +135,10 @@ PRODUCT_PACKAGES += \
 # Some permissions
 PRODUCT_COPY_FILES += \
     vendor/syberia/config/permissions/privapp-permissions-recorder.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-recorder.xml
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
