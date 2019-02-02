@@ -149,4 +149,5 @@ PRODUCT_PACKAGES += \
     QStilePokesign \
     QStileWavey \
     QStileSquaremedo \
-    QStileInkDrop
+    QStileInkDrop \
+    QStileCookie
