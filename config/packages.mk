@@ -123,12 +123,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ANGLE
 
-# LongShot
+# Misc
 PRODUCT_PACKAGES += \
-    Longshot \
     VinylMusicPlayer \
     GalleryGoPrebuilt \
-    GBoardPrebuilt
+    GBoardPrebuilt \
+    OPScreenRecorder
 
 # Some permissions
 PRODUCT_COPY_FILES += \
