@@ -125,7 +125,8 @@ PRODUCT_PACKAGES += \
 
 # LongShot
 PRODUCT_PACKAGES += \
-    Longshot
+    Longshot \
+    VinylMusicPlayer
 
 # Some permissions
 PRODUCT_COPY_FILES += \
