@@ -126,7 +126,9 @@ PRODUCT_PACKAGES += \
 # LongShot
 PRODUCT_PACKAGES += \
     Longshot \
-    VinylMusicPlayer
+    VinylMusicPlayer \
+    GalleryGoPrebuilt \
+    GBoardPrebuilt
 
 # Some permissions
 PRODUCT_COPY_FILES += \
