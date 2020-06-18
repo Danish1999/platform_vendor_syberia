@@ -125,6 +125,8 @@ PRODUCT_PACKAGES += \
 
 # Misc
 PRODUCT_PACKAGES += \
+    messaging \
+    Longshot \
     VinylMusicPlayer \
     GalleryGoPrebuilt \
     GBoardPrebuilt \
