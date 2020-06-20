@@ -66,7 +66,7 @@ PRODUCT_PACKAGES += \
     SyberiaPapers
 
 #OmniStyle
-#PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
     OmniStyle
 
 # Accents
